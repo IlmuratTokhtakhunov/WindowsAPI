@@ -1,0 +1,14 @@
+﻿  Ex10.c
+c:\users\ильмурат\downloads\ex89 (1)\ex10.c(5): warning C4101: ds: неиспользованная локальная переменная
+c:\users\ильмурат\downloads\ex89 (1)\ex10.c(6): warning C4101: buffer: неиспользованная локальная переменная
+c:\users\ильмурат\downloads\ex89 (1)\ex10.c(4): warning C4101: CurPtr: неиспользованная локальная переменная
+  TAIL.C
+c:\users\ильмурат\downloads\ex89 (1)\tail.c(35): warning C4101: LinePos: неиспользованная локальная переменная
+c:\users\ильмурат\downloads\ex89 (1)\tail.c(36): warning C4101: LastLine: неиспользованная локальная переменная
+c:\users\ильмурат\downloads\ex89 (1)\tail.c(36): warning C4101: LineCount: неиспользованная локальная переменная
+c:\users\ильмурат\downloads\ex89 (1)\tail.c(36): warning C4101: FirstLine: неиспользованная локальная переменная
+c:\users\ильмурат\downloads\ex89 (1)\tail.c(33): warning C4101: FPos: неиспользованная локальная переменная
+c:\users\ильмурат\downloads\ex89 (1)\tail.c(34): warning C4101: epo: неиспользованная локальная переменная
+c:\users\ильмурат\downloads\ex89 (1)\tail.c(34): warning C4101: bpo: неиспользованная локальная переменная
+  Создание кода...
+  Project6.vcxproj -> C:\Users\Ильмурат\source\repos\Project6\Debug\Project6.exe
